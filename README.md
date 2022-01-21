@@ -2,8 +2,7 @@
 
 Image2Terminal
 
-![Example video](https://github.com/TralseDev/Imaginal/blob/main/examples/example.GIF)
-
+![Example video](https://github.com/TralseDev/imaginal/blob/master/examples/example.gif)
 
 ## Description
 
